@@ -14,9 +14,9 @@ This script automates the installation of specified `.deb` packages for the inst
 
 ## Usage
 
-1. Clone the repository or download the `install_debs.sh` script.
-2. Make the script executable: `chmod +x install_debs.sh`.
-3. Run the script: `./install_debs.sh`.
+1. Clone the repository or download the `install_parsec.sh` script.
+2. Make the script executable: `chmod +x install_parsec.sh`.
+3. Run the script: `./install_parsec.sh`.
 
 ## Author Information
 
